@@ -1,0 +1,21 @@
+.graphics h1 {
+    color: #2d3436;
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    margin: 100px 250px;
+}
+
+.graphics p {
+    font-size: 21px;
+    color: #718093;
+    position: absolute;
+    margin: 230px 250px;
+}
+
+.graphics img {
+    height: 400px;
+    margin-top: 103px;
+    margin-left: 500px;
+}
+

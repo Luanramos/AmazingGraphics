@@ -1,0 +1,9 @@
+/* Reset */ 
+@import './Components/Reset.css';
+
+
+/* Components */
+@import './Components/Header.css';
+@import './Components/Container.css';
+@import './Components/Button.css';
+@import './Components/Graphics.css';
