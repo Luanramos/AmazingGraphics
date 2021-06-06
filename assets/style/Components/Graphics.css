@@ -1,21 +1,29 @@
+.graphics-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  min-width: 530px;
+  flex-direction: column;
+  gap: 40px;
+  z-index: 1;
+}
+
 .graphics h1 {
-    color: #2d3436;
-    font-size: 50px;
-    font-weight: bold;
-    position: absolute;
-    margin: 100px 250px;
+  color: #2d3436;
+  font-size: 70px;
+  font-weight: bold;
 }
 
 .graphics p {
-    font-size: 21px;
-    color: #718093;
-    position: absolute;
-    margin: 230px 250px;
+  font-size: 21px;
+  color: #718093;
 }
 
 .graphics img {
-    height: 400px;
-    margin-top: 103px;
-    margin-left: 500px;
+    max-width: 800px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
-
